@@ -1,0 +1,17 @@
+﻿<Window x:Class="Oef3Rekenmachine.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Oef3Rekenmachine"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="BtnPlus_Copy2" Content="+" HorizontalAlignment="Left" Margin="536,155,0,0" VerticalAlignment="Top" Height="37" Width="30"/>
+        <Button x:Name="BtnPlus_Copy" Content="+" HorizontalAlignment="Left" Margin="566,155,0,0" VerticalAlignment="Top" Height="37" Width="30"/>
+        <Button x:Name="BtnPlus_Copy1" Content="+" HorizontalAlignment="Left" Margin="566,192,0,0" VerticalAlignment="Top" Height="37" Width="30"/>
+        <Button x:Name="BtnPlus_Copy3" Content="+" HorizontalAlignment="Left" Margin="536,192,0,0" VerticalAlignment="Top" Height="37" Width="30"/>
+        <Button x:Name="BtnWis" Content="Wissen" HorizontalAlignment="Left" Margin="536,252,0,0" VerticalAlignment="Top" Height="37" Width="60"/>
+
+    </Grid>
+</Window>
