@@ -24,5 +24,21 @@ namespace Oef4_Kassa
         {
             InitializeComponent();
         }
+
+        //  1. controleren of het 10 cijfers zijn
+        //  2. nummer zonder laatste 2 getallen delen door 97 (integer)
+        //  3. 97 aftrekken door quotient
+        //  4. 
+        private void BtnControleCijfer_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        //  TODO
+
+        
+
+        //  Wisknop
+        //  TxtVeld.Clear();
     }
 }
