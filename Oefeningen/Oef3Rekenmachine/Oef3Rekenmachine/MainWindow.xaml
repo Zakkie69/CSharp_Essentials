@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Oef3Rekenmachine"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Rekenmachine" Height="450" Width="800">
     <Grid>
         <Button x:Name="BtnPlus" Content="+" HorizontalAlignment="Left" Margin="536,155,0,0" VerticalAlignment="Top" Height="37" Width="30" Click="BtnPlus_Click"/>
         <Button x:Name="BtnMin" Content="-" HorizontalAlignment="Left" Margin="566,155,0,0" VerticalAlignment="Top" Height="37" Width="30" Click="BtnMin_Click"/>
